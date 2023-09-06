@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+}
+
+.button1{
+border-radius: 10px;
+border-color: #119b9d;
+color: #119b9d;
+width: 150px;
+height: 30px;
+font-weight: bold;
+
+}
+
+.button2{
+border-radius: 30px;
+color: white;
+width: 30px;
+height: 30px;
+border-color: #119b9d;
+background-color: #119b9d;
+}
+
+.button3{
+    border-radius: 1%;
+    border-color: black;
+    color: white;
+    width: 150px;
+    height: 30px;
+    background-color: #2B78E4;
+    box-shadow: 5px 5px 5px 1px black;
+    
+    }
